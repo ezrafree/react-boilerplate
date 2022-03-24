@@ -13,3 +13,7 @@ It comes with:
 - ESLint
 - Prettier
 - Husky
+
+## Package.json
+
+Be sure and update the `name`, `description`, and `author` fields in `package.json`.
