@@ -14,6 +14,26 @@ It comes with:
 - Prettier
 - Husky
 
-## Package.json
+## Getting Started
+
+To get started, first clone down the repository.
+
+```sh
+git clone https://github.com/ezrafree/react-boilerplate.git
+```
+
+Then delete the `.git` directory.
+
+```sh
+rm -rfv .git/
+```
+
+Finally, initialize a new `git` repository.
+
+```sh
+git init
+```
+
+### Package.json
 
 Be sure and update the `name`, `description`, and `author` fields in `package.json`.
