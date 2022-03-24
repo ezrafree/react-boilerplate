@@ -1,0 +1,9 @@
+# .gitignore
+/node_modules
+/dist
+/build
+/coverage
+/yarn-error.log
+/.eslintcache
+/.vscode
+/.idea
